@@ -1,0 +1,14 @@
+C:\Users\bureap\source\repos\Skill\Skill\bin\Debug\netcoreapp3.1\Skill.exe
+C:\Users\bureap\source\repos\Skill\Skill\bin\Debug\netcoreapp3.1\Skill.deps.json
+C:\Users\bureap\source\repos\Skill\Skill\bin\Debug\netcoreapp3.1\Skill.runtimeconfig.json
+C:\Users\bureap\source\repos\Skill\Skill\bin\Debug\netcoreapp3.1\Skill.runtimeconfig.dev.json
+C:\Users\bureap\source\repos\Skill\Skill\bin\Debug\netcoreapp3.1\Skill.dll
+C:\Users\bureap\source\repos\Skill\Skill\bin\Debug\netcoreapp3.1\Skill.pdb
+C:\Users\bureap\source\repos\Skill\Skill\obj\Debug\netcoreapp3.1\Skill.csproj.AssemblyReference.cache
+C:\Users\bureap\source\repos\Skill\Skill\obj\Debug\netcoreapp3.1\Skill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bureap\source\repos\Skill\Skill\obj\Debug\netcoreapp3.1\Skill.AssemblyInfoInputs.cache
+C:\Users\bureap\source\repos\Skill\Skill\obj\Debug\netcoreapp3.1\Skill.AssemblyInfo.cs
+C:\Users\bureap\source\repos\Skill\Skill\obj\Debug\netcoreapp3.1\Skill.csproj.CoreCompileInputs.cache
+C:\Users\bureap\source\repos\Skill\Skill\obj\Debug\netcoreapp3.1\Skill.dll
+C:\Users\bureap\source\repos\Skill\Skill\obj\Debug\netcoreapp3.1\Skill.pdb
+C:\Users\bureap\source\repos\Skill\Skill\obj\Debug\netcoreapp3.1\Skill.genruntimeconfig.cache

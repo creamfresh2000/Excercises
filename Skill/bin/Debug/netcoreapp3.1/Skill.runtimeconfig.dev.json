@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bureap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bureap\\.nuget\\packages"
+    ]
+  }
+}
